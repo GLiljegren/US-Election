@@ -44,8 +44,9 @@
       const svg = d3
         .select(mapContainer)
         .append('svg')
-        .attr('width', width)
-        .attr('height', height)
+        .attr('viewBox', `0 0 ${width} ${height}`)
+        .attr('width', "100%")
+        .attr('height', "100%")
         .style('transform-origin', 'center') // Set transform origin for scaling
         .style('transform', 'scale(0)');
   
@@ -79,13 +80,12 @@
           ? colorScale("Democratic")
           : colorScale("Republican");
       })
-      .attr('stroke', '#333')
+      .attr('stroke', 'white')
       .on('mouseover', function (event, d) {
         d3.select(this)
         .raise() // Brings the current path to the front
             .transition()
             .duration(200)
-            .attr('stroke', 'white')
             .attr('fill', d => {
                 const electionData = d.properties.electionData;
                 if (!electionData) return '#ccc'; // Gray for states without data
@@ -125,7 +125,6 @@
         d3.select(this)
           .transition()
           .duration(200)
-          .attr('stroke', '#333')
           .attr('stroke-width', 1)
           .attr('transform', 'translate(0, 0) scale(1)')
           .attr('fill', d => {
@@ -141,8 +140,8 @@
 
   </script>
   
-  <div class="flex justify-center">
-    <div id="map" class="" bind:this={mapContainer}></div>
+  <div class="flex justify-center h-64 sm:h-96 md:h-[500px] lg:h-[600px]">
+    <div id="map" bind:this={mapContainer}></div>
   </div>
   <div id="tooltip" style="position: absolute; visibility: hidden;"></div>
 
