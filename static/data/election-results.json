@@ -1,0 +1,1124 @@
+[
+    {
+        "state": "Alabama",
+        "electoralVotes": 9,
+        "votesDemocratic": 768689,
+        "votesRepublican": 1456838,
+        "percentageDemocratic": 34.2,
+        "percentageRepublican": 64.8,
+        "totalVotes": 2225527,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1456838,
+                "percentage": 64.8
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 768689,
+                "percentage": 34.2
+            }
+        ]
+    },
+    {
+        "state": "Alaska",
+        "electoralVotes": 3,
+        "votesDemocratic": 102969,
+        "votesRepublican": 141470,
+        "percentageDemocratic": 40.4,
+        "percentageRepublican": 55.6,
+        "totalVotes": 244439,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 141470,
+                "percentage": 55.6
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 102969,
+                "percentage": 40.4
+            },
+            {
+                "name": "Robert F. Kennedy Jr. ((I))",
+                "votes": 4292,
+                "percentage": 1.7
+            },
+            {
+                "name": "Chase Oliver ((L))",
+                "votes": 2258,
+                "percentage": 0.9
+            },
+            {
+                "name": "Jill Stein ((I))",
+                "votes": 1666,
+                "percentage": 0.7
+            },
+            {
+                "name": "Cornel West ((A))",
+                "votes": 850,
+                "percentage": 0.3
+            },
+            {
+                "name": "Randall Terry ((C))",
+                "votes": 665,
+                "percentage": 0.3
+            },
+            {
+                "name": "Peter Sonski ((A))",
+                "votes": 501,
+                "percentage": 0.2
+            }
+        ]
+    },
+    {
+        "state": "Arizona",
+        "electoralVotes": 11,
+        "votesDemocratic": 1167898,
+        "votesRepublican": 1303793,
+        "percentageDemocratic": 46.8,
+        "percentageRepublican": 52.3,
+        "totalVotes": 2471691,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1303793,
+                "percentage": 52.3
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1167898,
+                "percentage": 46.8
+            }
+        ]
+    },
+    {
+        "state": "Arkansas",
+        "electoralVotes": 6,
+        "votesDemocratic": 395717,
+        "votesRepublican": 757922,
+        "percentageDemocratic": 33.5,
+        "percentageRepublican": 64.2,
+        "totalVotes": 1153639,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 757922,
+                "percentage": 64.2
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 395717,
+                "percentage": 33.5
+            }
+        ]
+    },
+    {
+        "state": "California",
+        "electoralVotes": 54,
+        "votesDemocratic": 5749886,
+        "votesRepublican": 4023365,
+        "percentageDemocratic": 57.3,
+        "percentageRepublican": 40.1,
+        "totalVotes": 9773251,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 5749886,
+                "percentage": 57.3
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 4023365,
+                "percentage": 40.1
+            }
+        ]
+    },
+    {
+        "state": "Colorado",
+        "electoralVotes": 10,
+        "votesDemocratic": 1466125,
+        "votesRepublican": 1157765,
+        "percentageDemocratic": 54.5,
+        "percentageRepublican": 43.1,
+        "totalVotes": 2623890,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1466125,
+                "percentage": 54.5
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1157765,
+                "percentage": 43.1
+            }
+        ]
+    },
+    {
+        "state": "Connecticut",
+        "electoralVotes": 7,
+        "votesDemocratic": 939449,
+        "votesRepublican": 714246,
+        "percentageDemocratic": 55.9,
+        "percentageRepublican": 42.5,
+        "totalVotes": 1653695,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 939449,
+                "percentage": 55.9
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 714246,
+                "percentage": 42.5
+            }
+        ]
+    },
+    {
+        "state": "Delaware",
+        "electoralVotes": 3,
+        "votesDemocratic": 289585,
+        "votesRepublican": 214184,
+        "percentageDemocratic": 56.6,
+        "percentageRepublican": 41.9,
+        "totalVotes": 503769,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 289585,
+                "percentage": 56.6
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 214184,
+                "percentage": 41.9
+            }
+        ]
+    },
+    {
+        "state": "Washington D.C.",
+        "electoralVotes": 3,
+        "votesDemocratic": 255899,
+        "votesRepublican": 18669,
+        "percentageDemocratic": 90.4,
+        "percentageRepublican": 6.6,
+        "totalVotes": 274568,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 255899,
+                "percentage": 90.4
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 18669,
+                "percentage": 6.6
+            }
+        ]
+    },
+    {
+        "state": "Florida",
+        "electoralVotes": 30,
+        "votesDemocratic": 4672341,
+        "votesRepublican": 6101563,
+        "percentageDemocratic": 42.9,
+        "percentageRepublican": 56,
+        "totalVotes": 10773904,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 6101563,
+                "percentage": 56
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 4672341,
+                "percentage": 42.9
+            }
+        ]
+    },
+    {
+        "state": "Georgia",
+        "electoralVotes": 16,
+        "votesDemocratic": 2538986,
+        "votesRepublican": 2654306,
+        "percentageDemocratic": 48.5,
+        "percentageRepublican": 50.7,
+        "totalVotes": 5193292,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 2654306,
+                "percentage": 50.7
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2538986,
+                "percentage": 48.5
+            }
+        ]
+    },
+    {
+        "state": "Hawaii",
+        "electoralVotes": 4,
+        "votesDemocratic": 312384,
+        "votesRepublican": 193169,
+        "percentageDemocratic": 60.6,
+        "percentageRepublican": 37.5,
+        "totalVotes": 505553,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 312384,
+                "percentage": 60.6
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 193169,
+                "percentage": 37.5
+            }
+        ]
+    },
+    {
+        "state": "Idaho",
+        "electoralVotes": 4,
+        "votesDemocratic": 274821,
+        "votesRepublican": 605040,
+        "percentageDemocratic": 30.4,
+        "percentageRepublican": 66.9,
+        "totalVotes": 879861,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 605040,
+                "percentage": 66.9
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 274821,
+                "percentage": 30.4
+            }
+        ]
+    },
+    {
+        "state": "Illinois",
+        "electoralVotes": 19,
+        "votesDemocratic": 2837488,
+        "votesRepublican": 2393354,
+        "percentageDemocratic": 53.4,
+        "percentageRepublican": 45,
+        "totalVotes": 5230842,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2837488,
+                "percentage": 53.4
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 2393354,
+                "percentage": 45
+            }
+        ]
+    },
+    {
+        "state": "Indiana",
+        "electoralVotes": 11,
+        "votesDemocratic": 1132789,
+        "votesRepublican": 1683960,
+        "percentageDemocratic": 39.4,
+        "percentageRepublican": 58.6,
+        "totalVotes": 2816749,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1683960,
+                "percentage": 58.6
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1132789,
+                "percentage": 39.4
+            }
+        ]
+    },
+    {
+        "state": "Iowa",
+        "electoralVotes": 6,
+        "votesDemocratic": 705309,
+        "votesRepublican": 924143,
+        "percentageDemocratic": 42.6,
+        "percentageRepublican": 55.8,
+        "totalVotes": 1629452,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 924143,
+                "percentage": 55.8
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 705309,
+                "percentage": 42.6
+            }
+        ]
+    },
+    {
+        "state": "Kansas",
+        "electoralVotes": 6,
+        "votesDemocratic": 523215,
+        "votesRepublican": 736238,
+        "percentageDemocratic": 40.7,
+        "percentageRepublican": 57.3,
+        "totalVotes": 1259453,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 736238,
+                "percentage": 57.3
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 523215,
+                "percentage": 40.7
+            }
+        ]
+    },
+    {
+        "state": "Kentucky",
+        "electoralVotes": 8,
+        "votesDemocratic": 701888,
+        "votesRepublican": 1338318,
+        "percentageDemocratic": 33.8,
+        "percentageRepublican": 64.5,
+        "totalVotes": 2040206,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1338318,
+                "percentage": 64.5
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 701888,
+                "percentage": 33.8
+            }
+        ]
+    },
+    {
+        "state": "Louisiana",
+        "electoralVotes": 8,
+        "votesDemocratic": 766405,
+        "votesRepublican": 1208233,
+        "percentageDemocratic": 38.2,
+        "percentageRepublican": 60.2,
+        "totalVotes": 1974638,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1208233,
+                "percentage": 60.2
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 766405,
+                "percentage": 38.2
+            }
+        ]
+    },
+    {
+        "state": "Maine",
+        "electoralVotes": 4,
+        "votesDemocratic": 403275,
+        "votesRepublican": 344163,
+        "percentageDemocratic": 52.6,
+        "percentageRepublican": 44.9,
+        "totalVotes": 747438,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 403275,
+                "percentage": 52.6
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 344163,
+                "percentage": 44.9
+            },
+            {
+                "name": "Jill Stein ((G))",
+                "votes": 9041,
+                "percentage": 1.2
+            },
+            {
+                "name": "Chase Oliver ((L))",
+                "votes": 5381,
+                "percentage": 0.7
+            },
+            {
+                "name": "Cornel West ((I))",
+                "votes": 3252,
+                "percentage": 0.4
+            }
+        ]
+    },
+    {
+        "state": "Maryland",
+        "electoralVotes": 10,
+        "votesDemocratic": 1485253,
+        "votesRepublican": 920393,
+        "percentageDemocratic": 59.9,
+        "percentageRepublican": 37.1,
+        "totalVotes": 2405646,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1485253,
+                "percentage": 59.9
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 920393,
+                "percentage": 37.1
+            }
+        ]
+    },
+    {
+        "state": "Massachusetts",
+        "electoralVotes": 11,
+        "votesDemocratic": 2061226,
+        "votesRepublican": 1228852,
+        "percentageDemocratic": 61,
+        "percentageRepublican": 36.3,
+        "totalVotes": 3290078,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2061226,
+                "percentage": 61
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1228852,
+                "percentage": 36.3
+            }
+        ]
+    },
+    {
+        "state": "Michigan",
+        "electoralVotes": 15,
+        "votesDemocratic": 2715809,
+        "votesRepublican": 2800060,
+        "percentageDemocratic": 48.3,
+        "percentageRepublican": 49.8,
+        "totalVotes": 5515869,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 2800060,
+                "percentage": 49.8
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2715809,
+                "percentage": 48.3
+            }
+        ]
+    },
+    {
+        "state": "Minnesota",
+        "electoralVotes": 10,
+        "votesDemocratic": 1656766,
+        "votesRepublican": 1519112,
+        "percentageDemocratic": 51,
+        "percentageRepublican": 46.8,
+        "totalVotes": 3175878,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1656766,
+                "percentage": 51
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1519112,
+                "percentage": 46.8
+            }
+        ]
+    },
+    {
+        "state": "Mississippi",
+        "electoralVotes": 6,
+        "votesDemocratic": 376172,
+        "votesRepublican": 617054,
+        "percentageDemocratic": 37.4,
+        "percentageRepublican": 61.3,
+        "totalVotes": 993226,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 617054,
+                "percentage": 61.3
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 376172,
+                "percentage": 37.4
+            }
+        ]
+    },
+    {
+        "state": "Missouri",
+        "electoralVotes": 10,
+        "votesDemocratic": 1190903,
+        "votesRepublican": 1739696,
+        "percentageDemocratic": 40,
+        "percentageRepublican": 58.5,
+        "totalVotes": 2930599,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1739696,
+                "percentage": 58.5
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1190903,
+                "percentage": 40
+            }
+        ]
+    },
+    {
+        "state": "Montana",
+        "electoralVotes": 4,
+        "votesDemocratic": 221190,
+        "votesRepublican": 338892,
+        "percentageDemocratic": 38.3,
+        "percentageRepublican": 58.6,
+        "totalVotes": 560082,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 338892,
+                "percentage": 58.6
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 221190,
+                "percentage": 38.3
+            }
+        ]
+    },
+    {
+        "state": "Nebraska",
+        "electoralVotes": 5,
+        "votesDemocratic": 353106,
+        "votesRepublican": 551343,
+        "percentageDemocratic": 38.5,
+        "percentageRepublican": 60.1,
+        "totalVotes": 904449,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 551343,
+                "percentage": 60.1
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 353106,
+                "percentage": 38.5
+            }
+        ]
+    },
+    {
+        "state": "Nevada",
+        "electoralVotes": 6,
+        "votesDemocratic": 647247,
+        "votesRepublican": 698169,
+        "percentageDemocratic": 47.2,
+        "percentageRepublican": 51,
+        "totalVotes": 1345416,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 698169,
+                "percentage": 51
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 647247,
+                "percentage": 47.2
+            },
+            {
+                "name": "None of these candidates ((N))",
+                "votes": 17179,
+                "percentage": 1.3
+            }
+        ]
+    },
+    {
+        "state": "New Hampshire",
+        "electoralVotes": 4,
+        "votesDemocratic": 414951,
+        "votesRepublican": 392017,
+        "percentageDemocratic": 50.8,
+        "percentageRepublican": 48,
+        "totalVotes": 806968,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 414951,
+                "percentage": 50.8
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 392017,
+                "percentage": 48
+            }
+        ]
+    },
+    {
+        "state": "New Jersey",
+        "electoralVotes": 14,
+        "votesDemocratic": 2096079,
+        "votesRepublican": 1892675,
+        "percentageDemocratic": 51.5,
+        "percentageRepublican": 46.5,
+        "totalVotes": 3988754,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2096079,
+                "percentage": 51.5
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1892675,
+                "percentage": 46.5
+            }
+        ]
+    },
+    {
+        "state": "New Mexico",
+        "electoralVotes": 5,
+        "votesDemocratic": 473468,
+        "votesRepublican": 421006,
+        "percentageDemocratic": 51.7,
+        "percentageRepublican": 46,
+        "totalVotes": 894474,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 473468,
+                "percentage": 51.7
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 421006,
+                "percentage": 46
+            }
+        ]
+    },
+    {
+        "state": "New York",
+        "electoralVotes": 28,
+        "votesDemocratic": 4332116,
+        "votesRepublican": 3430797,
+        "percentageDemocratic": 55.4,
+        "percentageRepublican": 43.9,
+        "totalVotes": 7762913,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 4332116,
+                "percentage": 55.4
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 3430797,
+                "percentage": 43.9
+            }
+        ]
+    },
+    {
+        "state": "North Carolina",
+        "electoralVotes": 16,
+        "votesDemocratic": 2685451,
+        "votesRepublican": 2876141,
+        "percentageDemocratic": 47.7,
+        "percentageRepublican": 51,
+        "totalVotes": 5561592,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 2876141,
+                "percentage": 51
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2685451,
+                "percentage": 47.7
+            }
+        ]
+    },
+    {
+        "state": "North Dakota",
+        "electoralVotes": 3,
+        "votesDemocratic": 112061,
+        "votesRepublican": 246033,
+        "percentageDemocratic": 30.6,
+        "percentageRepublican": 67.2,
+        "totalVotes": 358094,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 246033,
+                "percentage": 67.2
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 112061,
+                "percentage": 30.6
+            }
+        ]
+    },
+    {
+        "state": "Ohio",
+        "electoralVotes": 17,
+        "votesDemocratic": 2479475,
+        "votesRepublican": 3116406,
+        "percentageDemocratic": 43.9,
+        "percentageRepublican": 55.2,
+        "totalVotes": 5595881,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 3116406,
+                "percentage": 55.2
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2479475,
+                "percentage": 43.9
+            }
+        ]
+    },
+    {
+        "state": "Oklahoma",
+        "electoralVotes": 7,
+        "votesDemocratic": 499043,
+        "votesRepublican": 1035219,
+        "percentageDemocratic": 31.9,
+        "percentageRepublican": 66.2,
+        "totalVotes": 1534262,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1035219,
+                "percentage": 66.2
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 499043,
+                "percentage": 31.9
+            }
+        ]
+    },
+    {
+        "state": "Oregon",
+        "electoralVotes": 8,
+        "votesDemocratic": 1011113,
+        "votesRepublican": 781006,
+        "percentageDemocratic": 54.8,
+        "percentageRepublican": 42.4,
+        "totalVotes": 1792119,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1011113,
+                "percentage": 54.8
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 781006,
+                "percentage": 42.4
+            }
+        ]
+    },
+    {
+        "state": "Pennsylvania",
+        "electoralVotes": 19,
+        "votesDemocratic": 3339559,
+        "votesRepublican": 3473325,
+        "percentageDemocratic": 48.5,
+        "percentageRepublican": 50.4,
+        "totalVotes": 6812884,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 3473325,
+                "percentage": 50.4
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 3339559,
+                "percentage": 48.5
+            }
+        ]
+    },
+    {
+        "state": "Rhode Island",
+        "electoralVotes": 4,
+        "votesDemocratic": 281224,
+        "votesRepublican": 212908,
+        "percentageDemocratic": 55.6,
+        "percentageRepublican": 42.1,
+        "totalVotes": 494132,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 281224,
+                "percentage": 55.6
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 212908,
+                "percentage": 42.1
+            }
+        ]
+    },
+    {
+        "state": "South Carolina",
+        "electoralVotes": 9,
+        "votesDemocratic": 1024728,
+        "votesRepublican": 1479046,
+        "percentageDemocratic": 40.3,
+        "percentageRepublican": 58.2,
+        "totalVotes": 2503774,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1479046,
+                "percentage": 58.2
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1024728,
+                "percentage": 40.3
+            }
+        ]
+    },
+    {
+        "state": "South Dakota",
+        "electoralVotes": 3,
+        "votesDemocratic": 146699,
+        "votesRepublican": 276125,
+        "percentageDemocratic": 33.9,
+        "percentageRepublican": 63.8,
+        "totalVotes": 422824,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 276125,
+                "percentage": 63.8
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 146699,
+                "percentage": 33.9
+            }
+        ]
+    },
+    {
+        "state": "Tennessee",
+        "electoralVotes": 11,
+        "votesDemocratic": 1055327,
+        "votesRepublican": 1966828,
+        "percentageDemocratic": 34.4,
+        "percentageRepublican": 64.1,
+        "totalVotes": 3022155,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1966828,
+                "percentage": 64.1
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1055327,
+                "percentage": 34.4
+            }
+        ]
+    },
+    {
+        "state": "Texas",
+        "electoralVotes": 40,
+        "votesDemocratic": 4806358,
+        "votesRepublican": 6375353,
+        "percentageDemocratic": 42.4,
+        "percentageRepublican": 56.2,
+        "totalVotes": 11181711,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 6375353,
+                "percentage": 56.2
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 4806358,
+                "percentage": 42.4
+            }
+        ]
+    },
+    {
+        "state": "Utah",
+        "electoralVotes": 6,
+        "votesDemocratic": 401671,
+        "votesRepublican": 659377,
+        "percentageDemocratic": 36.9,
+        "percentageRepublican": 60.6,
+        "totalVotes": 1061048,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 659377,
+                "percentage": 60.6
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 401671,
+                "percentage": 36.9
+            }
+        ]
+    },
+    {
+        "state": "Vermont",
+        "electoralVotes": 3,
+        "votesDemocratic": 235705,
+        "votesRepublican": 119366,
+        "percentageDemocratic": 64.3,
+        "percentageRepublican": 32.6,
+        "totalVotes": 355071,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 235705,
+                "percentage": 64.3
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 119366,
+                "percentage": 32.6
+            }
+        ]
+    },
+    {
+        "state": "Virginia",
+        "electoralVotes": 13,
+        "votesDemocratic": 2227821,
+        "votesRepublican": 2003617,
+        "percentageDemocratic": 51.7,
+        "percentageRepublican": 46.5,
+        "totalVotes": 4231438,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 2227821,
+                "percentage": 51.7
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 2003617,
+                "percentage": 46.5
+            }
+        ]
+    },
+    {
+        "state": "Washington",
+        "electoralVotes": 12,
+        "votesDemocratic": 1694782,
+        "votesRepublican": 1130757,
+        "percentageDemocratic": 58.5,
+        "percentageRepublican": 39,
+        "totalVotes": 2825539,
+        "candidates": [
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1694782,
+                "percentage": 58.5
+            },
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1130757,
+                "percentage": 39
+            }
+        ]
+    },
+    {
+        "state": "West Virginia",
+        "electoralVotes": 4,
+        "votesDemocratic": 210223,
+        "votesRepublican": 527704,
+        "percentageDemocratic": 27.9,
+        "percentageRepublican": 70.1,
+        "totalVotes": 737927,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 527704,
+                "percentage": 70.1
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 210223,
+                "percentage": 27.9
+            }
+        ]
+    },
+    {
+        "state": "Wisconsin",
+        "electoralVotes": 10,
+        "votesDemocratic": 1668757,
+        "votesRepublican": 1697237,
+        "percentageDemocratic": 48.8,
+        "percentageRepublican": 49.6,
+        "totalVotes": 3365994,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 1697237,
+                "percentage": 49.6
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 1668757,
+                "percentage": 48.8
+            }
+        ]
+    },
+    {
+        "state": "Wyoming",
+        "electoralVotes": 3,
+        "votesDemocratic": 69508,
+        "votesRepublican": 192576,
+        "percentageDemocratic": 25.9,
+        "percentageRepublican": 71.6,
+        "totalVotes": 262084,
+        "candidates": [
+            {
+                "name": "Donald Trump ((R))",
+                "votes": 192576,
+                "percentage": 71.6
+            },
+            {
+                "name": "Kamala Harris ((D))",
+                "votes": 69508,
+                "percentage": 25.9
+            }
+        ]
+    }
+]
+
