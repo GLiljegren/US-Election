@@ -99,26 +99,42 @@
           .attr('transform', 'translate(0, 0) scale(0.8)');
       });
     }
+
+    function PlaySound(soundobj) {
+      var thissound = document.getElementById(soundobj);
+      thissound.play();
+    }
+
+    function StopSound(soundobj) {
+      var thissound = document.getElementById(soundobj);
+      thissound.pause();
+      thissound.currentTime = 0;
+    }
+
   </script>
   
   <div class="mt-8 p-2 md:p-4 flex justify-center">
-    <div class="h-24 w-24 sm:h-40 sm:w-40 md:h-48 md:w-48 self-center">
+    <div class="h-32 w-24 sm:h-52 sm:w-40 md:h-64 md:w-48 md:self-center">
+      <h2 class="mt-2 text-center text-lg sm:text-xl md:text-3xl font-bold">{data[0]}</h2>
       <img 
         src="https://images.aftonbladet-cdn.se/v2/images/39b81e77-d722-4f9a-8d0d-6dff262b0451?fit=crop&format=auto&h=1270&q=50&w=1900&s=9dd8b3fd1457987d0da7845b7255f96b9d5f152c" 
-        class="rounded-full justify-self-center" 
+        class="mt-2 rounded-full justify-self-center" 
         alt="Kamala Harris"
-        style="width: 100%; height: 100%; object-fit: cover;"
+        style="width: 100%; object-fit: cover;"
       >
       <h2 class="mt-2 text-center text-xs sm:text-lg md:text-2xl font-bold">Kamala Harris</h2>
       <h2 class="text-center text-xs md:text-lg">Democrats</h2>
     </div>
     <div id="map" class="w-40 sm:w-56 md:w-96" bind:this={arcContainer}></div>
-    <div class="h-24 w-24 sm:h-40 sm:w-40 md:h-48 md:w-48 self-center">
+    <div class="h-32 w-24 sm:h-52 sm:w-40 md:h-64 md:w-48 md:self-center">
+      <h2 class="mt-2 text-center text-lg sm:text-xl md:text-3xl font-bold">{data[1]}</h2>
       <img 
         src="https://media.vanityfair.com/photos/56cb5d18ab73e22d6d9321f6/master/w_1600%2Cc_limit/donald-trump-short-fingered-vulgarian-fingers-bruce-handy-ss13.jpg" 
-        class="rounded-full justify-self-center" 
+        class="mt-2 rounded-full justify-self-center" 
         alt="Donald Trump"
-        style="width: 100%; height: 100%; object-fit: cover;"
+        style="width: 100%; object-fit: cover;"
+        onmouseover={() => PlaySound('mySound')} 
+        onmouseout={() => StopSound('mySound')}
       >
       <h2 class="mt-2 text-center text-xs sm:text-lg md:text-2xl font-bold">Donald Trump</h2>
       <h2 class="text-center text-xs md:text-lg">Republicans</h2>
@@ -126,3 +142,4 @@
   </div>
   <div id="tooltip" style="position: absolute; visibility: hidden;"></div>
   
+  <audio id='mySound' src='https://www.myinstants.com/media/sounds/trump-you-are-fake-news.mp3' />
