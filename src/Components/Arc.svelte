@@ -113,7 +113,7 @@
 
   </script>
   
-  <div class="mt-8 p-2 md:p-4 flex justify-center">
+  <div class="p-2 md:p-4 flex justify-center">
     <div class="h-32 w-24 sm:h-52 sm:w-40 md:h-64 md:w-48 md:self-center">
       <h2 class="mt-2 text-center text-lg sm:text-xl md:text-3xl font-bold">{data[0]}</h2>
       <img 

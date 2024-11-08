@@ -142,7 +142,7 @@
   </script>
   
   <div class="flex justify-center h-72 sm:h-96 md:h-[500px] lg:h-[600px]">
-    <div id="map" class="border-8 border-gray-400 rounded-md" bind:this={mapContainer}></div>
+    <div id="map" class="border-8 border-red-500 rounded-md" bind:this={mapContainer}></div>
   </div>
   <div id="tooltip" style="position: absolute; visibility: hidden;"></div>
 
