@@ -74,8 +74,9 @@
       .attr('d', path)
       .attr('fill', d => {
         const electionData = d.properties.electionData;
-        if (!electionData) return '#ccc'; // Gray for states without data
-  
+        if (!electionData || electionData.state === "Arizona") return '#ccc'; // Gray for states without data
+        if (electionData.state === "Maine" || electionData.state === "Nebraska") return '#ff00ff'; // Gray for states without data
+
         return electionData.votesDemocratic > electionData.votesRepublican
           ? colorScale("Democratic")
           : colorScale("Republican");
@@ -129,8 +130,8 @@
           .attr('transform', 'translate(0, 0) scale(1)')
           .attr('fill', d => {
             const electionData = d.properties.electionData;
-            if (!electionData) return '#ccc'; // Gray for states without data
-    
+            if (!electionData || electionData.state === "Arizona") return '#ccc'; // Gray for states without data
+            if (electionData.state === "Maine" || electionData.state === "Nebraska") return '#ff00ff'; // Gray for states without data
             return electionData.votesDemocratic > electionData.votesRepublican
             ? colorScale("Democratic")
             : colorScale("Republican");
