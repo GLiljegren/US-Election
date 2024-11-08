@@ -114,7 +114,7 @@
   </script>
   
   <div class="p-2 md:p-4 flex justify-center">
-    <div class="h-32 w-24 sm:h-52 sm:w-40 md:h-64 md:w-48 md:self-center">
+    <div class="h-32 w-24 sm:h-52 sm:w-40 md:h-64 md:w-48 md:self-center ">
       <h2 class="mt-2 text-center text-lg sm:text-xl md:text-3xl font-bold">{data[0]}</h2>
       <img 
         src="https://images.aftonbladet-cdn.se/v2/images/39b81e77-d722-4f9a-8d0d-6dff262b0451?fit=crop&format=auto&h=1270&q=50&w=1900&s=9dd8b3fd1457987d0da7845b7255f96b9d5f152c" 
@@ -123,7 +123,7 @@
         style="width: 100%; object-fit: cover;"
       >
       <h2 class="mt-2 text-center text-xs sm:text-lg md:text-2xl font-bold">Kamala Harris</h2>
-      <h2 class="text-center text-xs md:text-lg">Democrats</h2>
+      <h2 class="text-center text-xs md:text-lg">Demokraterna</h2>
     </div>
     <div id="map" class="w-40 sm:w-56 md:w-96" bind:this={arcContainer}></div>
     <div class="h-32 w-24 sm:h-52 sm:w-40 md:h-64 md:w-48 md:self-center">
@@ -137,7 +137,7 @@
         onmouseout={() => StopSound('mySound')}
       >
       <h2 class="mt-2 text-center text-xs sm:text-lg md:text-2xl font-bold">Donald Trump</h2>
-      <h2 class="text-center text-xs md:text-lg">Republicans</h2>
+      <h2 class="text-center text-xs md:text-lg">Republikanerna</h2>
     </div>
   </div>
   <div id="tooltip" style="position: absolute; visibility: hidden;"></div>
